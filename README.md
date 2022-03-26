@@ -26,6 +26,13 @@ This is vuex store directory where you can save all vuex related files and vuex 
 ### Views
 This is the second most important folder in our application. Here we store all entry points for applications’ routes.
 
+## Run the solution
+`npm : 6.14.11`
+`node : v14.15.5`
+`cypress : 8.3.0`
+
+Install solution dependencies 
+
 ### `npm install`
 
 Run the app on http://localhost:8080
