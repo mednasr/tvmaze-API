@@ -1,5 +1,5 @@
 import { handleResponse, handleError } from './apiUtils';
-const baseUrl = 'http://api.tvmaze.com/shows?q=';
+const baseUrl = 'https://api.tvmaze.com/shows';
 export function getTVShows() {
   return fetch(baseUrl).then(handleResponse).catch(handleError);
 }
