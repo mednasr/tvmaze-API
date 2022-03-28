@@ -1,5 +1,9 @@
 # TVMAZE API application
 
+### Framework choice : Vue.js
+This is the first VueJS project created by me. I wanted to use this framework since this is a great chance for me to learn about it and to see how it compares with React , Angular, and Svelte and if it's worth using it on other projects.
+I spent 4 hours between reading about Vuejs and testing some of it's feature and then it took me another 2 hours to create this project.
+
 ![Alt text](src/assets/architecture.png?raw=true "Title")
 
 ## Architecture explanation
